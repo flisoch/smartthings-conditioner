@@ -1,1 +1,2 @@
-# todo: сделать описание
+# Схема устройства
+![conditioner](conditioner.png)
