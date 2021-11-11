@@ -1,0 +1,19 @@
+{
+  "onboardingConfig": {
+    "deviceOnboardingId": "Conditioner",
+    "mnId": "fcRA",
+    "setupId": "005",
+    "vid": "ST_a0fa95b4-1c91-4a88-a8d3-5c1692712d9f",
+    "deviceTypeId": "AirConditioner",
+    "ownershipValidationTypes": [
+      "JUSTWORKS"
+    ],
+    "identityType": "ED25519",
+    "deviceIntegrationProfileKey": {
+      "id": "52515da6-510e-4f9c-bdf2-ce97d72cad13",
+      "majorVersion": 0,
+      "minorVersion": 1
+    },
+    "productId": "abb61fa9-f48a-4ee5-9fce-ae95f2b58efa"
+  }
+}

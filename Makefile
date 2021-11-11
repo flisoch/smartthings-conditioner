@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := kettle_example
+PROJECT_NAME := conditioner
 
 EXTRA_COMPONENT_DIRS := ${IDF_PATH}/../../iot-core
 
